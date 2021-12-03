@@ -1,0 +1,47 @@
+body {
+    background-color: navy;
+}
+
+nav.main-navigation>div>a {
+    color: black;
+
+}
+
+body>div {
+    background-color: blue;
+    width: 1300px;
+    height: 1500px;
+    margin-left: 100px;
+    border-top-style:inset;
+    border-left-style:inset;
+    border-right-style:inset;
+    border-bottom-style:inset;
+}
+
+div.square {
+    background-color: white;
+    width: 400px;
+    height: 50px;
+    float: left;
+    margin-left:40px;
+    margin-top:15px;
+}
+
+div.kwadrat {
+    background-color: white;
+    width: 400px;
+    height: 50px;
+    float: left;
+    margin-left:5px;
+    margin-top:15px;
+}
+
+div.ostatni {
+    background-color: white;
+    width: 400px;
+    height: 50px;
+    float: left;
+    margin-left: 5px;
+    margin-top:15px;
+}
+
